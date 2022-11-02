@@ -1,0 +1,19 @@
+@font-face{
+    font-family: 'mine';
+    src: url(font/KonnectMedium.otf);
+
+}
+@font-face{
+    font-family: gen;
+    src: url(font/Quicksand.ttf);
+    display: replace;
+}
+body{
+    font-family: gen;
+}
+.implements{
+    font-family: gen;
+}
+.title{
+    font-family: 'mine';
+}
